@@ -8,3 +8,4 @@ const fun=()=>{
     console.log("单引号");
     
 }
+fun()
