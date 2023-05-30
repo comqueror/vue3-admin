@@ -4,8 +4,7 @@ import App from './App.vue'
 
 createApp(App).mount('#app')
 
-const fun=()=>{
-    console.log("单引号");
-    
+const fun = () => {
+  console.log("单引号")
 }
 fun()
