@@ -1,7 +1,7 @@
 <template>
-  <router-view></router-view>
+  <div>分页器组件</div>
 </template>
 
 <script setup lang="ts"></script>
 
-<style></style>
+<style scoped></style>
